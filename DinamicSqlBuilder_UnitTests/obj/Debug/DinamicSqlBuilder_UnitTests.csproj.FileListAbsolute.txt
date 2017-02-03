@@ -1,0 +1,8 @@
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder_UnitTests\bin\Debug\DinamicSqlBuilder_UnitTests.dll
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder_UnitTests\bin\Debug\DinamicSqlBuilder_UnitTests.pdb
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder_UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder_UnitTests\obj\Debug\DinamicSqlBuilder_UnitTests.csprojResolveAssemblyReference.cache
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder_UnitTests\obj\Debug\DinamicSqlBuilder_UnitTests.dll
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder_UnitTests\obj\Debug\DinamicSqlBuilder_UnitTests.pdb
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder_UnitTests\bin\Debug\DinamicSqlBuilder.dll
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder_UnitTests\bin\Debug\DinamicSqlBuilder.pdb

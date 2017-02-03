@@ -1,0 +1,4 @@
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder\bin\Debug\DinamicSqlBuilder.dll
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder\bin\Debug\DinamicSqlBuilder.pdb
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder\obj\Debug\DinamicSqlBuilder.dll
+D:\Dima\GoogleDisk\Programming\SqlBuilder\DinamicSqlBuilder\obj\Debug\DinamicSqlBuilder.pdb

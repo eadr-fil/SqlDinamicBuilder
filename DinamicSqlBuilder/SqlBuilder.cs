@@ -57,8 +57,22 @@ namespace DinamicSqlBuilder
                     sb.Append("'" + propertyValue.ToString() + "', ");
                 }
                 else
-                {                    
-                    sb.Append(propertyValue.ToString() + ", ");
+                {
+                    if (item.PropertyType == typeof(Boolean))
+                    {
+                        if (propertyValue.ToString() == true.ToString())
+                        {
+                            sb.Append("1, ");
+                        }
+                        else
+                        {
+                            sb.Append("0, ");
+                        }
+                    }
+                    else
+                    {
+                        sb.Append(propertyValue.ToString() + ", ");
+                    }
                 }
             }
             sb.Remove(sb.Length - 2, 2);

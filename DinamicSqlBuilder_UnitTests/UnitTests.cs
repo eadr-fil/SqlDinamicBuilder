@@ -32,11 +32,11 @@ namespace DinamicSqlBuilder_UnitTests
         {
             //arrange
             string tableName = "MyTable";
-            MyItem mi = new MyItem { Id = 1, Name= "John"};         
+            MyItem mi = new MyItem { Id = 10, Name= "John", IsOn = true, IsOff = false};         
             //action
             string res = SqlBuilder.Insert(tableName, mi);
             //assert
-            Assert.AreEqual(res, "INSERT INTO MYTABLE (Id, Name) VALUES (1, 'John')");            
+            Assert.AreEqual(res, "INSERT INTO MYTABLE (Id, Name, IsOn, IsOff) VALUES (10, 'John', 1, 0)");            
         }
     }
 
@@ -44,5 +44,8 @@ namespace DinamicSqlBuilder_UnitTests
     {
         public int Id { get; set; }
         public string Name { get; set; }
+
+        public bool IsOn { get; set; }
+        public bool IsOff { get; set; }
     }
 }
